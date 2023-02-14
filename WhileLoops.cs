@@ -16,7 +16,7 @@ namespace FullExplainFromStart
              */
 
 
-            // דוגמה ללואה
+            // דוגמה ללולאה
 
             // יוצרים משתנה שהוא מספר ומציבים לו 12
             int Number = 12;
