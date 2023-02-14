@@ -1,4 +1,4 @@
-namespace FullExplainFromStart
+namespace __Name
 {
     internal class Program
     {
