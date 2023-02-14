@@ -5,7 +5,8 @@ namespace FullExplainFromStart
         static void Main(string[] args)
         {
             // While Loops - לולאות ללא תווך מוגדר
-
+            // יותר נכון להגיד ללא מספר מוגדר של פעמים של הרצה
+            
             /*
                     While Loop struct - מבנה לולאה
                 while (bool value)
