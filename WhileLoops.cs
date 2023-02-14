@@ -30,7 +30,7 @@ namespace FullExplainFromStart
                 Console.WriteLine(Number);
             }
             // מתי שהמספר יהיה שווה ל 0 הלולאה תיפסק
-            // והקוד הימשיך
+            // והקוד ימשיך
         }
     }
 }
